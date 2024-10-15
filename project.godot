@@ -17,3 +17,5 @@ config/icon="res://icon.svg"
 [autoload]
 
 UiManager="*res://Godot-Turbo-Library/ui/UIManager.gd"
+AudioManager="*res://Godot-Turbo-Library/singletons/AudioManager.gd"
+SceneManager="*res://Godot-Turbo-Library/singletons/SceneManager.gd"
